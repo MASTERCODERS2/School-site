@@ -1,0 +1,5 @@
+// should try to pass in the login details of the user to this JSON file format
+// and create an API that a user wanted can use it to create a user API
+
+// my javascript file for the login should be created seperately and should submit the form action to the JSON API file 
+// that was created in the workspace
